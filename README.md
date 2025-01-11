@@ -1,1 +1,1 @@
-This is my first JavaScript exercise Learning from Apna College YouTube channel by Shardha Didi. 
+I'm a beginner trying to learn Web Development especially Javascript & these are my projects.
